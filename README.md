@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/packed1/](https://github.com/packed1/)
 
-- 📫 How to reach me **packed#1218 on discord.**
+- 📫 How to reach me **Sorted#0010 on discord.**
 
 - ⚡ Fun fact **I am always open to learning anything.**
 
