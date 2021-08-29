@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Packed</h1>
+<h1 align="center">Hi 👋, I'm Sorted</h1>
 <h3 align="center">A Learning Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=packed1&label=Profile%20views&color=0e75b6&style=flat" alt="packed1" /> </p>
@@ -11,7 +11,7 @@
 
 - 👯 I’m Colaberating with: [JohngottiDev](https://github.com/JohngottiDev/)
 
-- 👨‍💻 All of my projects are available at [https://github.com/packed1/](https://github.com/packed1/)
+- 👨‍💻 All of my projects are available at [https://github.com/Sorted1/](https://github.com/packed1/)
 
 - 📫 How to reach me **Sorted#0010 on discord.**
 
