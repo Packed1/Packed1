@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sorted</h1>
 <h3 align="center">A Learning Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=packed1&label=Profile%20views&color=0e75b6&style=flat" alt="packed1" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sorted1&label=Profile%20views&color=0e75b6&style=flat" alt="sorted1" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=packed1" alt="packed1" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sorted1" alt="sorted1" /></a> </p>
 
 - 🔭 I’m currently working on **Gottipress**
 
@@ -11,7 +11,7 @@
 
 - 👯 I’m Colaberating with: [JohngottiDev](https://github.com/JohngottiDev/)
 
-- 👨‍💻 All of my projects are available at [https://github.com/Sorted1/](https://github.com/packed1/)
+- 👨‍💻 All of my projects are available at [https://github.com/Sorted1/](https://github.com/sorted1/)
 
 - 📫 How to reach me **Sorted#0010 on discord.**
 
@@ -22,7 +22,7 @@
 <a href="https://discord.gg/EZEJYkhhdf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="EZEJYkhhdf" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sorted1&show_icons=true&locale=en&layout=compact" alt="packed1" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sorted1&show_icons=true&locale=en&layout=compact" alt="sorted1" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sorted1&show_icons=true&theme=dark&locale=en" alt="packed1" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sorted1&show_icons=true&theme=dark&locale=en" alt="sorted1" /></p>
 
