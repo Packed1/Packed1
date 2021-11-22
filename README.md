@@ -21,4 +21,6 @@
 <p align="left">
 <a href="https://discord.gg/CUGdc9h7Y2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="EZEJYkhhdf" height="30" width="40" /></a>
 </p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sorted1&show_icons=true&locale=en&layout=compact" alt="sorted1" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sorted1&show_icons=true&locale=en" alt="sorted1" /></p>
