@@ -24,3 +24,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sorted1&show_icons=true&locale=en&layout=compact" alt="sorted1" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sorted1&show_icons=true&locale=en" alt="sorted1" /></p>
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Sorted1)  
+
+![GitHub metrics](https://metrics.lecoq.io/Sorted1)  
