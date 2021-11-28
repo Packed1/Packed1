@@ -3,6 +3,8 @@
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Sorted1)  
 
+![GitHub metrics](https://metrics.lecoq.io/Sorted1)  
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sorted1&label=Profile%20views&color=0e75b6&style=flat" alt="sorted1" /> </p>
 
 - 🔭 I’m currently working on **Gottipress**
