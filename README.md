@@ -12,5 +12,5 @@
 <a href="https://instagram.com/sorted1415" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sorted1415" height="30" width="40" /></a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sorted1&show_icons=true&locale=en" alt="sorted1" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sorted1&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="sorted1" /></p>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sorted1&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
