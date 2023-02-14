@@ -13,5 +13,4 @@
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sorted1&show_icons=true&locale=en" alt="sorted1" /></p>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&theme=tokyonight)
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sorted1&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
