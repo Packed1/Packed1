@@ -12,5 +12,6 @@
 <a href="https://instagram.com/fta.sorted" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fta.sorted" height="30" width="40" /></a>
 </p>
 
+![Sorted's GitHub stats](https://github-readme-stats.vercel.app/api?username=sorted1&show_icons=true&theme=transparent)
+<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sorted1&theme=transparent&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sorted1&show_icons=true&theme=transparent)
