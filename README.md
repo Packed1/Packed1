@@ -9,7 +9,7 @@
 <p align="left">
 <a href="https://discord.gg/CUGdc9h7Y2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="EZEJYkhhdf" height="30" width="40" /></a>
 <a href="https://dev.to/packed1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="packed1" height="30" width="40" /></a>
-<a href="https://instagram.com/sorted1415" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sorted1415" height="30" width="40" /></a>
+<a href="https://instagram.com/fta.sorted" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fta.sorted" height="30" width="40" /></a>
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sorted1&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="sorted1" /></p>
