@@ -9,7 +9,6 @@
 <p align="left">
 <a href="https://discord.gg/CUGdc9h7Y2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="EZEJYkhhdf" height="30" width="40" /></a>
 <a href="https://dev.to/packed1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="packed1" height="30" width="40" /></a>
-<a href="https://instagram.com/fta.sorted" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fta.sorted" height="30" width="40" /></a>
 </p>
 
 ![Sorted's GitHub stats](https://github-readme-stats.vercel.app/api?username=sorted1&show_icons=true&theme=transparent)
