@@ -72,6 +72,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Sorted1/Sorted1/output/snake.svg" alt="Snake animation" />
+<img style="filter: invert(1);" src="https://raw.githubusercontent.com/Sorted1/Sorted1/output/snake.svg" alt="Snake animation" />
 
 ###
