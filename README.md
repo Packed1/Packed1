@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m working as Head Developer of https://pcguardian.xyz.<br>- 📚 I'm currently learning: Python, PHP, C#.<br>- ⚡ In my free time I listen to music.</p>
+<p align="left">- 🔭 I’m working as Head Developer of https://pcguardian.xyz.<br>- ⚡ In my free time I listen to music.</p>
 
 ###
 
